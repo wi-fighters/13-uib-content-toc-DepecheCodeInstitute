@@ -6,8 +6,7 @@
 
 1. Add a unique id to each heading tag in the page, make the id as descriptive as possible.
 
-2. Wrap the text in the table of contents in an ordered list so that each main heading and its sub headings are in the same list. 
-<!-- suggested edit: *same list item, "subheading" one word -->
+2. Wrap the text in the table of contents in an ordered list so that each main heading and its sub headings are in the same list.
 
 3. In each list item under the main heading text, add another **nested** ordered list so that each sub heading is wrapped in a list item.
 
